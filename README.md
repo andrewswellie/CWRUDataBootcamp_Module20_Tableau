@@ -1,4 +1,4 @@
-# Tableau Assignment - Citi Bike Analytics
+# Jersey City - Citi Bike Analytics
 
 ## Background
 
@@ -93,12 +93,3 @@ Your final product will be assessed on the following metrics:
 
 * Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered all that you need -- so you will need to keep an eye out for new tricks. 
 
-* The final "format" of your deliverable is up to you. It can be an embedded Tableau dashboard, a Tableau Story, a Tableau visualization + PDF -- you name it. The bottom line is: This is your story to tell. Use the medium you deem most effective. (But you should definitely be using Tableau in some way!)
-
-* Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
-
-* Good luck!
-
-## Copyright
-
-Data Boot Camp (C) 2018. All Rights Reserved.
